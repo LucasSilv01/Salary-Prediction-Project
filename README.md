@@ -43,11 +43,3 @@ Para instalar localmente como pacote:
 pip install .
 ```
 Isso instalará o pacote `salary_project` e você poderá importar funções no Python.
-
-## Boas práticas
-- Use ambientes virtuais.
-- Rode o notebook para ver visualizações interativas.
-- Ajuste hiperparâmetros com CV antes de usar em produção.
-
-## Contato
-Autor: Gerado automaticamente pelo assistente.
